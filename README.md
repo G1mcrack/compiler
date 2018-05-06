@@ -5,3 +5,6 @@
 
 # network学习
 1. [Linux的SOCKET编程详解](https://blog.csdn.net/hguisu/article/details/7445768/)
+ 
+# 嵌入式
+1. [STM32的时钟系统RCC详细整理](http://www.51hei.com/bbs/dpj-30961-1.html)
